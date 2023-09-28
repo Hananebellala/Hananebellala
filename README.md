@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Hananebellala
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Java language
+- 👋 Hi, I’m @Hananebellala.
+- 👀 I’m a computer science student.
+- 🌱 I’m interested in web development and data science.
 - 💞️ I’m looking to collaborate on an online work
 - 📫 How to reach me ...
 
