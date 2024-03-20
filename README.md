@@ -1,6 +1,6 @@
 # Hey there, I'm Hanane Bellala 👋
 
-- 👀 I’m a computer science student.
+- 💻 I’m a computer science student.
 - 🌱 A mobile development and data science enthusiast.
 - 📫 How to reach me: 
 
