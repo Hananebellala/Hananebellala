@@ -6,11 +6,14 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hanane-bellala-205733248/">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn">
+    <img src="https://img.icons8.com/color/36/000000/linkedin.png" alt="LinkedIn">
   </a>
   <a href="https://www.instagram.com/hanane._.bellala/">
-    <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram">
+    <img src="https://img.icons8.com/color/36/000000/instagram-new.png" alt="Instagram">
   </a>
+</p>
+<p align="center">
+---------------------------------------------------------------
 </p>
 
 <p align="center">
