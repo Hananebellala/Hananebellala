@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @Hananebellala.
-- 👀 I’m a computer science student.
-- 🌱 I’m interested in web development and data science.
-- 💞️ I’m looking to collaborate on an online work
-- 📫 How to reach me ...
+<p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=Hananebellala.Hananebellala" alt="Visitor Counter">
+</p>
+
+# Hey there, I'm Hanane Bellala 👋
+
+I’m a computer science student, passionate about mobile development and data science.
 
 <!---
 Hananebellala/Hananebellala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
