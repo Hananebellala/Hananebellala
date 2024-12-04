@@ -5,7 +5,7 @@
     Connect with me on LinkedIn and Instagram :)
 -->
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=CCCCFF&height=120&section=header" alt="header"/> 
 
 <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=435&lines=Hello%2C+it's+Hanane+Bellala;Computer+Science+Student" alt="Computer Science Student"/>
@@ -63,7 +63,7 @@ ESI Algiers
 > [!IMPORTANT]  
 > <a href="https://drive.google.com/file/d/1fvkBJQ7himSiTKoLdNKb03rQlIS7GnBI/view" download>Download my resume</a>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=CCCCFF&height=120&section=footer" alt="footer"/>
 
 <!--
      Thanks for being my guest <3
