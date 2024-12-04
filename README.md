@@ -24,7 +24,7 @@
 -->
 
 ### My mission
-I’m passionate about technology and development! As a computer science student, I am always eager to learn and grow. My mission is to create impactful solutions, especially in mobile and game development. I aim to bridge the gap between creativity and technology to make meaningful contributions.
+I’m passionate about technology and development!I aim to create impactful and creative solutions, especially in mobile and game development : )
 
 <!--
      This is the list of my skills and tools I am studying!
@@ -34,7 +34,10 @@ I’m passionate about technology and development! As a computer science student
 [![My Skills](https://skillicons.dev/icons?i=flutter,java,python,github,git,mysql,java,godot)](https://skillicons.dev)
 
 ### Studying
-<img src="https://www.esi.dz/wp-content/uploads/2019/11/esi_white.png"/>
+
+<img src="https://www.esi.dz/wp-content/uploads/2019/11/esi_white.png" width="50" height="50"/>
+
+ESI Algiers
 
 
 
