@@ -31,32 +31,12 @@ I’m passionate about technology and development! As a computer science student
 -->
 
 ### Main skills
-[![My Skills](https://skillicons.dev/icons?i=flutter,java,python,react,nodejs,github,git,mongodb,mysql,java,spring,godot)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,java,python,github,git,mysql,java,godot)](https://skillicons.dev)
 
 ### Studying
-[![Learning](https://skillicons.dev/icons?i=aws,azure,ruby)](https://skillicons.dev)
+<img src="https://www.esi.dz/wp-content/uploads/2019/11/esi_white.png"/>
 
-<!--
-     I also have my own blog with useful information, check it out ^^
--->
 
-### Publications
-<div>
-  <a href="https://medium.com/@hanane-bellala">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank" alt="Medium">
-  </a>
-  <a href="https://dev.to/hanane-bellala">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" target="_blank" alt="Dev.to">
-  </a>
-</div>
-
-You can find my publications on Medium and Dev.to, where I share my thoughts on technology, development, and more. I dive into topics like mobile development, game dev, and my passion for AI.
-
-Check out my latest post 👇<br>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@hanane-bellala/0">
-    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@hanane-bellala/0" alt="Medium Article">
-  </a>
-<br>
 
 <!--
      Fast links to my socials!
@@ -78,7 +58,7 @@ Check out my latest post 👇<br>
 
 ### Employer?
 > [!IMPORTANT]  
-> <a href="https://drive.google.com/drive/folders/1hJGhQTtzDUzMqRtoIQUx7QTLtCN726ZK?usp=sharing" download>Download my resume</a>
+> <a href="https://drive.google.com/file/d/1fvkBJQ7himSiTKoLdNKb03rQlIS7GnBI/view" download>Download my resume</a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
 
