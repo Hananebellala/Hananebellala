@@ -31,7 +31,7 @@ I’m passionate about technology and development!I aim to create impactful and 
 -->
 
 ### Main skills
-[![My Skills](https://skillicons.dev/icons?i=flutter,python,github,git,mysql,java,godot,angular,django,javascript,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,python,github,git,mysql,java,godot,angular,django,javascript,react,sqllite)](https://skillicons.dev)
 
 ### Studying
 
