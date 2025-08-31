@@ -25,13 +25,14 @@
 
 ### My mission
 I’m passionate about technology and development!I aim to create impactful and creative solutions, especially in mobile and game development : )
+I have experience with IOT projects.
 
 <!--
      This is the list of my skills and tools I am studying!
 -->
 
 ### Main skills
-[![My Skills](https://skillicons.dev/icons?i=flutter,python,github,git,mysql,java,godot,angular,django,javascript,react,sqllite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,python,github,git,mysql,java,godot,angular,django,javascript,react)](https://skillicons.dev)
 
 ### Studying
 
